@@ -1,0 +1,2 @@
+# parabola
+graficas_1
